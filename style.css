@@ -26,3 +26,23 @@ h3 {
 h1, h2, h3 {
   font-weight: bold;
 }
+
+.headline {
+  color: #E1624F;
+}
+
+.history {
+  color: #0C51A7;
+}
+
+.couple {
+  color: #591B98;
+}
+
+.family {
+  color: #E5245E;
+}
+
+.budget {
+  color: #E95E10;
+}
